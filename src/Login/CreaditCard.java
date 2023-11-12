@@ -5,6 +5,7 @@ public class CreaditCard {
 
 
         System.out.println("Credit Card Created");
+        System.out.println("Credit Card updated");
 
 
     }
